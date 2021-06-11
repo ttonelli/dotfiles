@@ -2,6 +2,7 @@
 
 cp tmux.conf ~/.tmux.conf
 cp pryrc ~/.pryrc
+cp run-metafields-tests.sh ~/
 
 cat gitconfig >> ~/.gitconfig
 
